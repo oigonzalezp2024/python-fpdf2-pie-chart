@@ -1,7 +1,7 @@
 
 ---
 
-# Python - Pie Chart  
+# Python Fpdf2 Pie Chart  
 
 ***
 
